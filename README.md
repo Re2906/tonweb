@@ -102,7 +102,6 @@ Each part is documented separately:
 
 [tonweb-utils](https://github.com/toncenter/tonweb/blob/master/src/utils/README.md) - work with TON Addresses, coin values, byte arrays, hex, hash functions.
 
-
 **Also we use JSDoc in code**
 
 ## Roadmap
